@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@ethereumjs/tx": "^4.2.0",
+    "dotenv": "^16.3.1",
     "web3": "^4.0.3"
   }
 }
